@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby "3.0.3"
+ruby "3.2.2"
 
-gem 'sinatra', '~> 2.1.0'
-gem 'puma', '~> 5.5', '>= 5.5.2'
+gem 'sinatra', '~> 4.0.0'
+gem 'puma', '~> 6.4', '>= 6.4.2'
